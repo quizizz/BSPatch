@@ -1,2 +1,2 @@
 # BSPatch
-Cocoapod library for iOS that implements the bsdiff utility
+`Cocoapod` library for `iOS` that implements the `bsdiff` utility
